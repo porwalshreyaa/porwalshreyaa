@@ -1,5 +1,5 @@
 ### Heya there 👋  I am Shreya. 
-<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:200px"/>
+<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/>
 I am currently studying machine learning.
 
 <!--
