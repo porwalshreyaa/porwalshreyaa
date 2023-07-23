@@ -1,4 +1,8 @@
-### Hi there 👋
+### Heya there 👋
+
+I am Shreya.
+
+I am currently studying machine learning.
 
 <!--
 **porwalshreyaa/porwalshreyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![shreyaporwal's GitHub | Topics](https://stats.quine.sh/shreyaporwal/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shreyaporwal)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=porwalshreyaa"/>
