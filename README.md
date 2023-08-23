@@ -1,5 +1,4 @@
-## Heya there 👋  
-##### Name - Shreya 
+## Heya there 👋 I am Shreya 
 ##### Degree - BS in Data Science and Applications - 1st year
 ##### Institute - Indian Institute of Technology, Madras
 ##### Have explored - Frontend, Literature, Graphic Design
