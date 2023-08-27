@@ -1,7 +1,7 @@
 ## Heya there 👋 I am Shreya 
 
 
-<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/> ![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/> <br> ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ##### Degree - BS in Data Science and Applications - 1st year
 ##### Institute - Indian Institute of Technology, Madras
