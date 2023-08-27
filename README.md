@@ -2,6 +2,7 @@
 
 
 <img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ##### Degree - BS in Data Science and Applications - 1st year
 ##### Institute - Indian Institute of Technology, Madras
@@ -12,10 +13,6 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa"/>
  
  <br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-Hahaha!
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalshreyaa)](https://github.com/porwalshreyaa/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi)  
