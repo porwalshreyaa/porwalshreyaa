@@ -11,7 +11,7 @@
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa"/>
 
- ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&show_icons=true&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalshreyaa)](https://github.com/porwalshreyaa/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi)             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=porwalshreyaa&layout=compact"/>
 
