@@ -1,12 +1,14 @@
 ## Heya there 👋 I am Shreya 
 
 
-<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/><div> ##### Degree - BS in Data Science and Applications - 1st year
+<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/><div>
+##### Degree - BS in Data Science and Applications - 1st year
 ##### Institute - Indian Institute of Technology, Madras
 ##### Have explored - Frontend, Literature, Graphic Design
 ##### Exploring - Machine learning<
 ##### Yet to Explore - Backend, Game Dev, IOT, Robotics, and Electrical, etc.
 </div>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa"/>
