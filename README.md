@@ -3,8 +3,8 @@
 <div>
  
 ##### Have explored - Frontend, Literature, Graphic Design
-##### Exploring - Machine learning, Backend
-##### Yet to Explore - Game Dev, IOT, Robotics, and Electrical, etc.
+##### Exploring - Backend, Machine learning
+
 ##### Degree - BS in Data Science and Applications - 1st year
 ##### Institute - Indian Institute of Technology, Madras
 </div>
