@@ -1,7 +1,6 @@
 ## Heya there 👋 I am Shreya 
 
-
-<img src="https://avatars.githubusercontent.com/u/60391776?v=4" style="height:250px"/><div>
+<div>
 ##### Have explored - Frontend, Literature, Graphic Design
 ##### Exploring - Machine learning, Backend
 ##### Yet to Explore - Game Dev, IOT, Robotics, and Electrical, etc.
@@ -9,7 +8,6 @@
 ##### Institute - Indian Institute of Technology, Madras
 </div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa"/>
  
