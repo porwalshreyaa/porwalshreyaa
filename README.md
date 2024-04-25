@@ -10,17 +10,13 @@
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="AK_Gautam" /> </h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="Shreya" /> </h3>
 
 <p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
 
 
 
-<h3 align="left">Connect with me:</h3>
-<h3 align="center">
-<a href="https://twitter.com/Gautam_AK_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AK_Gautam" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/porwalshreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreya" height="30" width="40" /></a>
-</h3>
+
 
 
 <hr/>
@@ -65,7 +61,11 @@
 
 
 
-
+<h3 align="left">Connect with me:</h3>
+<h3 align="center">
+<a href="https://twitter.com/Gautam_AK_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AK_Gautam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/porwalshreya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreya" height="30" width="40" /></a>
+</h3>
 
 
 
