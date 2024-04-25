@@ -1,8 +1,5 @@
 <h1 align="center" color="cyan">Shreya Porwal</h1><br>
 
-![Twitter header - 1.png?raw=true](twitter_header.png)
-
-
 
 <p align="center">
   <pre color="teal">
