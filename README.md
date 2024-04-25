@@ -13,7 +13,7 @@
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
-<div background='#fffff'>
+<div>
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="80" height="80"/> </a> 
@@ -22,8 +22,8 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode"  width="80" height="80"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask"  width="80" height="80"/> </a>
-<a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva"  width="80" height="80"/> </a>
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="80" height="80"/> </a> <br>
+<a href="https://www.sqlite.org/"  style="background:#fffff" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="80" height="80"/> </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva"  width="80" height="80"/> </a> <br>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"  width="80" height="80"/> </a>
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu"  width="80" height="80"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash"  width="80" height="80"/> </a>
