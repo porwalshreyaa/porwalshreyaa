@@ -57,8 +57,8 @@
 
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa"/></p><br>
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=discord&row=2&column=4" alt="Shreya" /></a></h4><hr>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa&theme=dark"/></p><br>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=dark&row=2&column=4" alt="Shreya" /></a></h4><hr>
 
 
 ## Heya there 👋 I am Shreya 
