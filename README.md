@@ -13,7 +13,7 @@
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
-<div  style="bg-color:white;">
+<div background='#fffff'>
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/> </a>
 <!-- <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/> </a> -->
