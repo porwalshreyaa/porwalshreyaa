@@ -3,10 +3,10 @@
 
 <p align="center">
   <pre color="teal">
-   &bull; 🔭 I’m currently studying       :- Bachelor's of Science at Indian Institute of Technology, Madras
-   &bull; 🌱 I’m currently exploring      :- Backend, Data, Robotics
-   &bull; 👯 I’m looking to collaborate on:- Applied AI projects
-   &bull; 💬 Ask me anything about        :- Frontend, Literature, Graphic Design
+   &bull; 🔭 I’m currently studying        : Bachelor's of Science at Indian Institute of Technology, Madras
+   &bull; 🌱 I’m currently exploring       : Backend, Data, Robotics
+   &bull; 👯 I’m looking to collaborate on : Applied AI projects
+   &bull; 💬 Ask me anything about         : Frontend, Literature, Graphic Design
  </pre>
 
 <hr/>
