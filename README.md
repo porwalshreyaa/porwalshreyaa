@@ -10,6 +10,7 @@
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -26,9 +27,15 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/> </a>
 <a href="https://vscodium.com/" target="_blank"> <img src="" alt="VSCodium" width="40" height="40"/> </a>
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+<a href="https:/github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="40" height="40"/> </a>
 </p><br>
 
-<hr/>
+
 <h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="Shreya" /> </h3>
 
 <p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
