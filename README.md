@@ -10,16 +10,7 @@
    &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="Shreya" /> </h3>
 
-<p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
-
-
-
-
-
-
-<hr/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a>
@@ -37,6 +28,10 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="40" height="40"/> </a>
 </p><br>
 
+<hr/>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="Shreya" /> </h3>
+
+<p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
 
 
 <div align="center">
