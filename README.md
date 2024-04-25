@@ -7,7 +7,6 @@
    &bull; 🌱 I’m currently exploring      :- Backend, Data, Robotics
    &bull; 👯 I’m looking to collaborate on:- Applied AI projects
    &bull; 💬 Ask me anything about        :- Frontend, Literature, Graphic Design
-   &bull; ⚡ Fun fact: I can speak about seven languages (mostly local) 😎 
  </pre>
 
 <hr/>
@@ -15,19 +14,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <p align="center">
-<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="80" height="80"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="80" height="80"/> </a>
-<a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"  width="80" height="80"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode"  width="80" height="80"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png" alt="Flask" width="100" height="80"/> </a>
-<a href="https://www.sqlite.org/"  style="background:#fffff" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="80" height="80"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/> </a>             
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="80" height="80"/> </a>                  
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="80" height="80"/> </a>            
+<a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"  width="80" height="80"/> </a>           
+<a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/> </a>        
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode"  width="80" height="80"/> </a>         
+<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.ui-themes.com/content/images/size/w600/2024/01/cover-flask.jpg" alt="Flask" width="80" height="80"/> </a>           
+<!-- <a href="https://www.sqlite.org/"  style="background:#fffff" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" alt="SQLite"  width="80" height="80"/> </a> -->
 <a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva"  width="80" height="80"/> </a> <br>
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"  width="80" height="80"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" alt="Ubuntu"  width="80" height="80"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash"  width="80" height="80"/> </a>
-<a href="https:/github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github"  width="80" height="80"/> </a>
+<a href="https://ubuntu.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/ubuntu-plain-icon-256x256-we4d4gd0.png" alt="Ubuntu"  width="80" height="80"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash"  width="80" height="80"/> </a>
+<!-- <a href="https:/github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github"  width="80" height="80"/> </a> -->
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLalchemy"  width="80" height="80"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"  width="80" height="80"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres"  width="80" height="80"/> </a>
@@ -39,9 +38,9 @@
 
 </div>
 
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=Gautam-flash&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="Shreya" /> </h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=porwalshreyaa&label=Profile%20views&color=008080&style=plastic" height=24 width=130 alt="Shreya" /> </h3>
 
-<p align="center"><a href="https://akshaygautam.me"><img src="https://img.shields.io/website?url=https://akshaygautam.me&logo=github&style=plastic" height=23 width=130/></a></p><hr>
+<p align="center"><a target='_blank' href="https://shreyaporwal.netlify.app"><img src="https://img.shields.io/website?url=https://shreyaporwal.netlify.app&logo=github&style=plastic" height=23 width=130/></a></p><hr>
 
 
 <div align="center">
@@ -51,20 +50,20 @@
 
 
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&show_icons=true&locale=en&theme=cobalt) <br>
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&show_icons=true&locale=en&theme=holi) <br>
 
 
 
 </div>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa&theme=holi"/></p><br>
-<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=dark&row=2&column=4" alt="Shreya" /></a></h4><hr>
+<h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=dark&row=2&column=4" alt="Shreya" /></a></h4><br>
 <p align="center"><img src="https://stats.quine.sh/shreyaporwal/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shreyaporwal" /></p><br>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi" /></p><br>
+<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi" /></p><br>-->
 
-
+<hr>
 
 
 <h3 align="left">Connect with me:</h3>
