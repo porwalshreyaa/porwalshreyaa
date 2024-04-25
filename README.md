@@ -57,15 +57,15 @@
 
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa&theme=dark"/></p><br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa&theme=holi"/></p><br>
 <h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=dark&row=2&column=4" alt="Shreya" /></a></h4><hr>
-
+<p align="center">[![shreyaporwal's GitHub | Topics](https://stats.quine.sh/shreyaporwal/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shreyaporwal)</p><br>
 
 ## Heya there 👋 I am Shreya 
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi)  
-[![shreyaporwal's GitHub | Topics](https://stats.quine.sh/shreyaporwal/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=shreyaporwal)
+
 
 
 
