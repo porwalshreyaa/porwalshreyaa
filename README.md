@@ -3,7 +3,7 @@
 
 <p align="center">
   <pre color="teal">
-   &bull; 🔭 I’m currently studying        : Bachelor's of Science at Indian Institute of Technology, Madras
+   &bull; 🔭 I’m currently studying        : Bachelor of Science at Indian Institute of Technology, Madras
    &bull; 🌱 I’m currently exploring       : Backend, Data, Robotics, DevOps
    &bull; 👯 I’m looking to learn more of  : Data Engineering
    &bull; 💬 Ask me anything about         : Frontend, Literature, Graphic Design
