@@ -15,24 +15,25 @@
 <div>
 <p align="center">
 <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/> </a>             
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="80" height="80"/> </a>                  
-<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="80" height="80"/> </a>            
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="80" height="80"/> </a>                  <!--
+<a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="80" height="80"/> </a>   -->         
 <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter"  width="80" height="80"/> </a>           
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80"/> </a>        
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode"  width="80" height="80"/> </a>         
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.ui-themes.com/content/images/size/w600/2024/01/cover-flask.jpg" alt="Flask" width="80" height="80"/> </a>           
 <!-- <a href="https://www.sqlite.org/"  style="background:#fffff" target="_blank"> <img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" alt="SQLite"  width="80" height="80"/> </a> -->
 <a href="https://www.canva.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva"  width="80" height="80"/> </a> <br>
-<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"  width="80" height="80"/> </a>
+<!--<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"  width="80" height="80"/> </a>-->
 <a href="https://ubuntu.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/ubuntu-plain-icon-256x256-we4d4gd0.png" alt="Ubuntu"  width="80" height="80"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash"  width="80" height="80"/> </a>
 <!-- <a href="https:/github.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github"  width="80" height="80"/> </a> -->
 <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLalchemy"  width="80" height="80"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"  width="80" height="80"/> </a>
+  <!--
+<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React"  width="80" height="80"/> </a>-->
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres"  width="80" height="80"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas"  width="80" height="80"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"  width="80" height="80"/> </a>
-<a href="https://insomnia.rest/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg" alt="Insomnia"  width="80" height="80"/> </a>
+<!--<a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"  width="80" height="80"/> </a>-->
+<!--<a href="https://insomnia.rest/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg" alt="Insomnia"  width="80" height="80"/> </a>-->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript"  width="80" height="80"/> </a>
 </p><br>
 
