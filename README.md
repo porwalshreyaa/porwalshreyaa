@@ -48,10 +48,6 @@
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalshreyaa)](https://github.com/porwalshreyaa/github-readme-stats) 
-
-
-
 ![Contribution Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&show_icons=true&locale=en&theme=holi)
 
 
@@ -60,7 +56,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=porwalshreyaa&theme=holi"/></p>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=dark&row=2&column=4" alt="Shreya" /></a><br>
+  <h4 align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=porwalshreyaa&theme=dark&row=2&column=4" alt="Shreya" /></a></h4><br>
 
 
 <!--<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=porwalshreyaa&repo=github-readme-stats&cache_seconds=86400&theme=holi" /></p><br>-->
