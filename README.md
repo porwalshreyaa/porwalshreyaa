@@ -48,11 +48,11 @@
 <div align="center">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalshreyaa)](https://github.com/porwalshreyaa/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=porwalshreyaa)](https://github.com/porwalshreyaa/github-readme-stats) 
 
 
 
-![Contribution Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&show_icons=true&locale=en&theme=holi) <br>
+![Contribution Stats](https://github-readme-stats.vercel.app/api?username=porwalshreyaa&show_icons=true&locale=en&theme=holi)
 
 
 
